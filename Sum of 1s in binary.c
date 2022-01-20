@@ -16,4 +16,3 @@ int main(){
 	scanf("%d",&x);
 	printf("sum is: %d",sum(x));
 }
-
